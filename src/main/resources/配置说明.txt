@@ -1,0 +1,12 @@
+#spring.thymeleaf.prefix: /templates/
+#spring.thymeleaf.suffix: .html
+
+
+#parent标签中引入的是1.4.0
+#spring.view.prefix:/WEB-INF/jsp/
+#spring.view.suffix:.jsp
+#application.message:Hello Phil
+
+#parent标签中引入的是1.1.3版
+#spring.view.prefix= /WEB-INF/jsp/
+#spring.view.suffix= .jsp
